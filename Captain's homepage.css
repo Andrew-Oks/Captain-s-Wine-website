@@ -1,0 +1,28 @@
+#storeimg1 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 50px;
+    border: 5px solid black; 
+}
+#attentivestaff {
+	display: block; 
+	width: 75%;
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 3vw;
+    font-family: 'IBM Plex Serif', serif;
+
+}
+#navbarlogo {
+	font-family: 'IBM Plex Serif', serif;
+	color: black;
+}
+#navbar {
+	background-color: darkred;
+}
+body {
+	background-color: darkred;
+}
